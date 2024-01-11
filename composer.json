@@ -1,0 +1,13 @@
+{
+  "name": "lois/328/hello",
+  "description": "My first Fat-Free MVC project",
+  "authors": [
+    {
+      "name": "Lois Lanctot",
+      "email": "lanctot.lois@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
